@@ -43,4 +43,5 @@ public class SQList {
     public void setLock(String lock) {//设置日记锁秘密
         this.lock = lock;
     }
+
 }

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="track_line">画笔</string>
+    <string name="straight_line">Straight Line</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="oval">Oval</string>
+    <string name="circle">Circle</string>
+    <string name="dots">Dots</string>
+    <string name="Eraser">橡皮擦</string>
+    <string name="str1">新增备忘录</string>
+    <string name="str2" />
+    <string name="str3">备忘录</string>
+
+
+</resources>
