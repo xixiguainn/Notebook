@@ -9,7 +9,7 @@ import android.view.animation.TranslateAnimation;
 import android.widget.ScrollView;
 
 
-//重写ScrollView 实现具有反弹效果，垂直滑动
+//重写ScrollView 实现，垂直滑动
 public class AbScrollView extends ScrollView {
 	private View inner; // 孩子View
 	private static final int DEFAULT_POSITION = -1;

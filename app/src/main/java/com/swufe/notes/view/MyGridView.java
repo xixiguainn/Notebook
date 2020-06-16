@@ -5,7 +5,7 @@ package com.swufe.notes.view;
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.GridView;
-//使用GRidView控件来显示备忘录
+//使用GRidView控件实现网格布局来显示备忘录
 
 public class MyGridView extends GridView{
 
